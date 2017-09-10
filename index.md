@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Bonk
 
-You can use the [editor on GitHub](https://github.com/aem989/Bonk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Protect Your Noggin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Many helmets provide protection from skull fractures and serious brain damage, but they fail to prevent minor brain injuries, such as concussions. The Bonk helmet will have you covered for all crashes, no matter how big or small. We even have your back (or shall we say, head) when you don’t fall, as our helmets will keep you ahead of everyone else’s cycling fashion game. Basically, we just want to make sure your noggin stays safe.
 
 ```markdown
 Syntax highlighted code block
