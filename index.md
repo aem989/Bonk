@@ -5,5 +5,5 @@
 ### What Your're Really Getting
   1. Complete Crash Coverage 
   2. Upscale Look: Be the Envy of the Peleton
-  3. Safe Travels, Wherever and Whenever Your Next Adventure May Lead You
+  3. Safe Travels, Wherever and Whenever Your Next Adventure May Lead You 
 
